@@ -1,0 +1,49 @@
+/* Build a survey form */
+
+body{
+  background-color:#6161AF;
+  padding:10px;
+  color:#ffffdf;
+  font-family:Tahoma;
+}
+h1, p{
+  margin:10px auto;
+  text-align:center;
+  color:rgb(240, 240, 200);
+}
+form{
+  max-width:700px;
+  min-width:300px;
+  width:75vw;
+  margin:2em auto;
+  background-color:#252546c4;
+  padding:2px 0 1.5em 0;
+  font-size:15px;
+  font-family:;
+}
+label{
+  display:block;
+  margin:1em 2em;
+}
+input, textarea, select{
+  width:100%;
+  margin:2px;
+}
+.inline{
+  display:inline;
+  width:unset;
+  margin:0 5px 0 0
+}
+input[type="submit"]
+{
+  display:block;
+  width:60%;
+  margin:0 auto;
+  background-color:#37AF65;
+  border:1px solid #37AF65;
+  color:#ffffff;
+  height:2em;
+}
+.default-select{
+  font-color:white;
+}
