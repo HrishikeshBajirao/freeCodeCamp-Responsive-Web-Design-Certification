@@ -1,0 +1,65 @@
+/* build a technical documentation page */
+
+*{
+  font-size:16px;
+  letter-spacing:0.6px;
+  color:#444;
+  font-family:sans-serif;
+}
+body{
+  display:flex;
+}
+
+#navbar{
+  display:flex;
+  flex-direction:column;
+  width:300px;
+  height:100%;
+  margin-right:10px;
+  border-right:3px solid grey;
+  position:fixed;
+  overflow-y:auto;
+}
+#navbar header{
+  font-size:28px;
+  margin-bottom:10px;
+  color:black;
+  position:relative;
+}
+#navbar a{
+  text-decoration:none;
+  font-size:20px;
+  border-top:1px solid grey;
+  padding:15px;
+}
+main{
+  margin-left:320px;
+  flex:1;
+}
+
+main header{
+  font-size:30px;
+  color:black;
+  margin-top:15px;
+}
+code{
+  padding:15px;
+  display:block;
+  background-color:#D3D3D3;
+  width:95%;
+  margin:0 auto;
+  border-radius:5px;
+}
+
+@media only screen and (max-width:800px){
+  
+  #navbar{
+    width:25%;
+    overflow-y:auto;
+    display:flex;
+    flex-direction:column;
+  }
+  main{
+    margin-left:29%;
+  }
+}
