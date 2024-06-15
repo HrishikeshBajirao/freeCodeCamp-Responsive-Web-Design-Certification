@@ -5,7 +5,7 @@
 #### Certification Self Projects
 1. Survey Form
 2.  Tribute Page
-3.  Technical Documentation Page
+3.  [Technical Documentation Page](https://github.com/HrishikeshBajirao/Me-acopycat/tree/main/freeCodeCamp%20Projects/Responsive%20Web%20Design/Build%20a%20Technical%20Documentation%20Page)
 4.  [Product Landing Page](https://github.com/HrishikeshBajirao/Me-a-copycat/tree/main/freeCodeCamp%20Projects/Responsive%20Web%20Design/Build%20a%20Product%20Landing%20Page)
 5.  Personal Portfolio Page
 #### [Practice Projects](https://github.com/HrishikeshBajirao/Me-a-copycat/tree/main/freeCodeCamp%20Projects/Responsive%20Web%20Design/Practice%20Projects)
