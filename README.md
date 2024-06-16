@@ -5,7 +5,7 @@
 3.  [Technical Documentation Page]()
 4.  [Product Landing Page]()
 5.  Personal Portfolio Page
-### [Guided Practice Projects (15)]() -  **Format : name of the project ( concept that the project is based on )**
+### [Guided Practice Projects (15)](https://github.com/HrishikeshBajirao/freeCodeCamp-Responsive-Web-Design-Certification/tree/main/Practice%20Projects) -  **Format : name of the project ( concept that the project is based on )**
 
 1. Cat Photo App (HTML)
 2. Cafe Menu (Basic CSS)
