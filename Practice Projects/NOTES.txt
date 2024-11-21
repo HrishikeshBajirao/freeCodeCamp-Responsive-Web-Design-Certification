@@ -1,0 +1,33 @@
+I.
+
+1. h1, h2, p
+2. <main></main>
+3. <img src="" alt="">
+4. <a href="" target="_black"></a>
+5. <section></section>
+6. When you add a lower rank heading element to the page, it's implied that you're starting a new subsection.
+7. <ul><li>item</li></ul>
+8. <figure>
+    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+    <figcaption>Cats love lasagna.</figcaption>
+   </figure>
+9. <ol><li>item</li></ol>
+10. <em></em> => italicize text
+11. <strong></strong> => bold text
+12. <form action="/submit-url"></form>
+    <input type="text" name="input_name" placeholder="full name" required>
+    <button>Submit</button>  => defualt action is to submit the form to the action link 
+Even though you added your button below the text input, they appear next to each other on the page.
+That's because both input and button elements are inline elements, which don't appear on new lines.
+    <fieldset>
+      <legend>choose your gender</legend>
+      <label><input id="male" value="male" type="radio" name="gender" checked>MALE</label>
+      <label><input id="female" value="female" type="radio" name="gender">FEMALE</label>
+    </fieldset>
+
+    for every form input add the following attributes
+      a. type
+      b. id
+      c. name
+      d. value
+    also use label with the 'for' attribute
