@@ -2,7 +2,7 @@
 
 ## Certification
 
-<img src="./freecodecamp-responsive-web-design-certficate.png" alt="certificate-image" width="600">
+<img src="./freecodecamp-responsive-web-design-certficate.png" alt="certificate-image" width="800">
 
 ## Certification Self Projects
 1.  [Survey Form](https://github.com/HrishikeshBajirao/freeCodeCamp-Responsive-Web-Design-Certification/tree/main/1-%20Survey%20Form)
