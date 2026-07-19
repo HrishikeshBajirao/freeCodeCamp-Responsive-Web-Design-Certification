@@ -1,5 +1,10 @@
 # freeCodeCamp - Responsive Web Design Certification
 
+## [Certification](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
+[View Original](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
+
+<img src="./freecodecamp-responsive-web-design-certficate.png" alt="certificate-image" width="800">
+
 **What I learned in this certification:**
 
 - **Semantic HTML** – structuring pages with meaningful elements for better readability and accessibility.  
@@ -9,11 +14,6 @@
 - **Responsive design with media queries** – making layouts that look good on mobile, tablet, and desktop.  
 - **Accessibility best practices** – using proper semantics, labels, and focus order to improve UX for everyone.  
 - **Forms and UI structure** – designing and styling forms and page sections that are consistent and user‑friendly.
-
-## [Certification](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
-[View Original](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
-
-<img src="./freecodecamp-responsive-web-design-certficate.png" alt="certificate-image" width="800">
 
 ## Certification Self Projects
 1.  [Survey Form](https://github.com/HrishikeshBajirao/freeCodeCamp-Responsive-Web-Design-Certification/tree/main/1-%20Survey%20Form)
