@@ -1,6 +1,7 @@
 # freeCodeCamp - Responsive Web Design Certification
 
-## Certification [View Original](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
+## [Certification](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
+[View Original](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
 
 <img src="./freecodecamp-responsive-web-design-certficate.png" alt="certificate-image" width="800">
 
