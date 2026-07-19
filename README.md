@@ -1,5 +1,8 @@
 # freeCodeCamp - Responsive Web Design Certification
 
+Through this certification I strengthened my understanding of semantic HTML, CSS fundamentals, Flexbox, CSS Grid, and responsive design with media queries.  
+The projects in this course helped me apply accessibility principles, build structured layouts, work with forms, and design visually consistent UIs for different screen sizes.
+
 ## [Certification](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
 [View Original](https://freecodecamp.org/certification/hrishikeshbajirao/responsive-web-design-v9)
 
